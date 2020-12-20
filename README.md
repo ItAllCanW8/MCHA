@@ -1,2 +1,2 @@
 # MCHA
-numerical analysis methods
+numerical analysis labs
