@@ -1,2 +1,2 @@
 # MCHA
-numerical analysis labs
+numerical analysis labs (part 1)
